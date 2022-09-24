@@ -1,0 +1,2 @@
+Run all flights as usual
+Delay the flights for NOTAMs and late airplane availibility
